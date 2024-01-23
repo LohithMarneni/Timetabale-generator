@@ -1,6 +1,6 @@
 # Timetable Generator
 
-![Timetable-generator](readme images/timetable image.png)
+![Timetable-generator](readme_images/readme image.png)
 
 The Timetable Generator is a C++ program designed to create and display class-wise timetables for a school week. It allows users to input subject names and codes, generate timetables, display subjects, and retrieve information about subjects at specific class periods.
 
