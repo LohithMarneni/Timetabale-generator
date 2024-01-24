@@ -35,7 +35,7 @@ The Timetable Generator is a C++ program designed to create and display class-wi
 
 ## How to Contribute
 
-If you'd like to contribute to this project, We welcome your suggestions, bug reports, and pull requests.
+If you'd like to contribute to this project, I welcome your suggestions, bug reports, and pull requests.
 
 ps: Project Report(in pdf) is available in root folder as election_management_project_report.pdf
 
